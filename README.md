@@ -1,2 +1,2 @@
 # foodie
-Food KB
+Food Name Analyzer
